@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://negyptibe.github.io/sitemap.html.gz
+Sitemap: https://negyptibe.github.io/app/sitemap.html.gz
+Sitemap: https://negyptibe.github.io/assets/sitemap.html.gz
+Sitemap: https://negyptibe.github.io/css/sitemap.html.gz
+Sitemap: https://negyptibe.github.io/includes/sitemap.html.gz
+Sitemap: https://negyptibe.github.io/item/sitemap.html.gz
+Sitemap: https://negyptibe.github.io/src/sitemap.html.gz
